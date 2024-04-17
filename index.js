@@ -63,7 +63,7 @@ const questions = [
 // Stringing the readme together
 function generateReadme(returnedAnswers) {
     // This took way too much trial and error
-    // Probably could've found something online to copy and paste, then altered
+    // Probably could've found something else online to copy and paste, then altered
     return `
     # ${returnedAnswers.projectTitle}
     
